@@ -12,3 +12,15 @@ the conduction band. These photons in the incident light should have energy grea
 the electrons jump from the valence band to the conduction band. Hence when light having enough energy strikes on the device, more and more
 electrons are excited to the conduction band which results in large number of charge carriers. The result of this process is more and more 
 and hence it is said that the resistance of the device has been decreased.
+Problems and troubleshooting:
+Loose connection of cables.
+Loose connections of LDR device.
+Error in programming or coding.
+Precautions:
+While unplugging the USB ,pull the plug nt the cable.
+Connectionns should be tight and according to the coding done on audrino software.
+Handle the apparatus like AUDRINO BOARD ,LDR and breadboard carefully.
+Learning Outcomes:
+Working and appearence of Audrino.
+Working of a photoresistor.
+Design and analysis of breadboard alongwith its circuit diagram.
