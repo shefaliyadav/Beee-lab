@@ -5,11 +5,15 @@ A LED flasher is also known as a LED blinker. It is a device in which a LED turn
 Learning and Observations:
 When a LED is connected on a breadboard and audrino and the circuit is completed by creating a potential difference the connected LED glows and blinks according to the program code on audrino screen .
 the main and basic learning from this blinker is that it anly glows when a potential difference is created accross the circuit it is when the current flows and led functions.
-Problem and troubleshooting:
-While compiling the program on audrino it might give some compile time errors which might be caused due to various reasons such as if any variable is notbeen declared or the port selected is npot of audrino .Hence in order to troubleshoot these proiblems we might check the program and port before compiling the program.
-or maybe sometimes the wires are loose or connections are not made proper so the breadboard also may get damaged hence we should take 
-care of coonnections before uploading the program.
+Problems and troubleshooting:
+Loose connection of cables.
+Loose connections of LED bulbs.
+Error in programming or coding.
 Precautions:
-We should make sure thet all connections are made proper to avoid the short circuiting of the breadboard.
+While unplugging the USB ,pull the plug nt the cable.
+Connectionns should be tight and according to the coding done on audrino software.
+Handle the apparatus like AUDRINO BOARD ,LED wires and breadboard carefully.
 Learning Outcomes:
-concept of breadboard and audrino.
+Working and appearence of Audrino.
+Lighting of LED using audrino board and software .
+Design and analysis of breadboard alongwith its circuit diagram.
