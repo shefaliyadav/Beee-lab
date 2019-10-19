@@ -1,1 +1,17 @@
 
+Aim:
+Design a LED Chasor.
+Theory:
+Led Chaser is a circuit which blinks LEDs in a particular frequency and particular pattern so that it provides the effect of illusion, LED are moving. These LED chasers are used in decorative lighting.
+Learning and Observations:
+When  LEDs are connected on a breadboard and audrino and the circuit is completed by creating a potential difference the connected LEDs glows and blinks according to the program code on audrino screen .
+the main and basic learning from this chasoris that they  anly glows when a potential difference is created accross the circuit it is when the current flows and led functions.
+Problem and troubleshooting:
+While compiling the program on audrino it might give some compile time errors which might be caused due to various reasons such as if any variable is notbeen declared or the port selected is npot of audrino .Hence in order to troubleshoot these proiblems we might check the program and port before compiling the program.
+or maybe sometimes the wires are loose or connections are not made proper so the breadboard also may get damaged hence we should take 
+care of coonnections before uploading the program.
+Precautions:
+We should make sure thet all connections are made proper to avoid the short circuiting of the breadboard.
+Learning Outcomes:
+concept of breadboard and audrino.
+
